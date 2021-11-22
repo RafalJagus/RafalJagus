@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nazywam się Rafał Jaguś i jestem początkującym programistą  👋
 
 <!--
 **RafalJagus/RafalJagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
